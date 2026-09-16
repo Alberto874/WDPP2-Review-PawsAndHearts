@@ -3,3 +3,8 @@
     object-fit: cover;
     position: top;
 }
+body {
+    font-family:cursive;
+    background-color: #8400ff; 
+}
+
