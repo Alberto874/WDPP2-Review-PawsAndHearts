@@ -6,5 +6,11 @@
 body {
     font-family:cursive;
     background-color: #8400ff; 
+    height: 200vh;
+    
+}
+.btn-purple {
+    background-color: #8400ff;
+    color: #fff;
 }
 
